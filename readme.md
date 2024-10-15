@@ -11,9 +11,9 @@
 * [Test run in IDEA](#test-run-in-idea)
 
 ## Technology stack
-| Python | Flask | unittest | Waitress | Behave | Beautifulsoup4 | Selenium | allure-behave |  Pycharm | 
-|:------:|:-----:|:--------:|:--------:|:------:|:--------------:|:--------:|:-------------:|---------:|
-|<img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="60" height="60">|<img src=https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5 width="110" height="50">|<img src=https://github.com/user-attachments/assets/65e4ae26-3439-402b-9b37-ba63b4fe913a width="60" height="60">|<img src=https://github.com/user-attachments/assets/6f3633b3-33e2-4df7-bb80-408700c14ff3 width="60" height="60"> |<img src=https://github.com/user-attachments/assets/7257d7dc-f781-4e1f-ae87-43473cf81c53 width="60" height="60"> |<img src=https://github.com/user-attachments/assets/bc6451b4-46d6-4fa5-bcea-9abaab276e10 width="60" height="60"> |<img src=https://github.com/user-attachments/assets/59998826-e8d4-435e-979d-3a6324f14ce6 width="100" height="60">|<img src=https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525 width="60" height="60">|<img src=https://github.com/user-attachments/assets/de35d05c-661b-41c2-af48-fc40f4129669 width="60" height="60">|
+| Python | pytest | Selenium | allure | Pycharm | 
+|:------:|:-----:|:--------:|:--------:|:------:|
+|<img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="60" height="60">|<img src=https://github.com/user-attachments/assets/59998826-e8d4-435e-979d-3a6324f14ce6 width="100" height="60">|<img src=https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525 width="60" height="60">|<img src=https://github.com/user-attachments/assets/de35d05c-661b-41c2-af48-fc40f4129669 width="60" height="60">|
 
 ## Allure report
 ![image](https://github.com/user-attachments/assets/c08ee9d0-2254-4e24-8582-6b8b35c80a48)
