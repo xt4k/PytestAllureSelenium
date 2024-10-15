@@ -1,7 +1,7 @@
 
 # Python test automation framework demo-project (as example of python-pytest-selenium-allure proect)
 <img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="120" height="120"> 
- <img src=https://github.com/xt4k/PytestAllureSelenium/edit/master/readme.md width="60" height="80">
+ <img src=https://github.com/user-attachments/assets/60e6084f-37d5-4fb6-ba5a-5346284b7d2c width="120" height="120">
  <img src=https://github.com/user-attachments/assets/1b063350-5258-453b-a20a-6955847822a6 width="120" height="120"> 
 
 
