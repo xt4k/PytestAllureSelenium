@@ -6,8 +6,8 @@
 
 ## TABLE OF CONTENT
 * [Technology stack](#technology-stack)
-* [Allure report](#allure-report)
-* [Report pages](#report-pages)
+* [Allure report](#ide-report)
+* [Allure report pages](#allure-report-pages)
 * [Test run in IDEA](#test-run-in-idea)
 
 ## Technology stack
@@ -15,13 +15,11 @@
 |:------:|:-----:|:--------:|:--------:|:------:|
 |<img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="60" height="60">| <img src=https://github.com/user-attachments/assets/e3aeef95-7746-4518-b5b9-5ba0941de6a6 width="120" height="120">|<img src=https://github.com/user-attachments/assets/59998826-e8d4-435e-979d-3a6324f14ce6 width="100" height="60">|<img src=https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525 width="60" height="60">|<img src=https://github.com/user-attachments/assets/de35d05c-661b-41c2-af48-fc40f4129669 width="60" height="60">|
 
-## Allure report
+## IDE report
 ![image](https://github.com/user-attachments/assets/c08ee9d0-2254-4e24-8582-6b8b35c80a48)
 
 
-
-
-## Report pages
+## Allure report pages
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/9655631d-93ca-40a0-bd98-fe2d42c1f3cc)
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/0fe55c65-2db7-4119-9828-9928a2684b29)
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/85c84531-6555-4a5a-9d3f-36c7f9238cbc)
