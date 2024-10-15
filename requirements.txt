@@ -1,0 +1,9 @@
+pytest
+pip
+argparse
+mark
+requests
+selenium
+openpyxl
+allure-pytest
+pytest-xdist

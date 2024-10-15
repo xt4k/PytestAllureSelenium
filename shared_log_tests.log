@@ -1,0 +1,1153 @@
+2024-10-15 20:21:00,910:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:21:00,912:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:21:00,912:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:21:00,912:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:21:03,630:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:21:03,630:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:21:03,631:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:21:03,972:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:21:06,054:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:21:06,065:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:21:06,134:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:22:23,310:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:22:23,315:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:22:23,315:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:22:23,315:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:22:26,169:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:22:26,169:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:22:26,169:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:22:26,523:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:22:28,604:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:22:28,613:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:22:28,855:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:23:43,536:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:23:43,537:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:23:43,538:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:23:43,538:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:23:47,123:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:23:47,124:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:23:47,124:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:23:47,490:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:23:49,572:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:23:49,582:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:23:49,590:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:23:49,660:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:25:00,248:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:25:00,249:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:25:00,249:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:25:00,250:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:25:02,944:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:25:02,944:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:25:02,944:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:25:03,285:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:25:05,366:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:25:05,375:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:25:05,382:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:25:05,461:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:26:46,920:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:26:46,921:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:26:46,921:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:26:46,921:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:26:50,543:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:26:50,544:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:26:50,544:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:26:50,879:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:26:52,961:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:26:52,971:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:26:52,980:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:26:52,994:TEST : INFO : SharedLogger : Check result: True
+2024-10-15 20:26:53,011:TEST : INFO : SharedLogger : Check result: True
+2024-10-15 20:26:53,032:TEST : INFO : SharedLogger : Check result: True
+2024-10-15 20:26:53,105:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:29:20,767:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:29:20,768:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:29:20,768:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:29:20,768:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:29:23,655:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:29:23,656:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:29:23,656:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:29:24,000:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:29:26,092:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:29:26,102:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:29:26,111:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:29:26,125:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:29:26,141:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:29:26,163:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:29:26,171:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 20:29:26,171:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="f40db6a967f557ba1247a9b11cd55ffc", element="f.0D559DFBE1C53B8A142FC996CC327368.d.8E7E19013EFFBBEF403F747DC0425AFA.e.83")>` to card
+2024-10-15 20:29:26,229:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 20:29:26,229:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="f40db6a967f557ba1247a9b11cd55ffc", element="f.0D559DFBE1C53B8A142FC996CC327368.d.8E7E19013EFFBBEF403F747DC0425AFA.e.95")>` to card
+2024-10-15 20:29:26,279:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 20:29:26,279:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="f40db6a967f557ba1247a9b11cd55ffc", element="f.0D559DFBE1C53B8A142FC996CC327368.d.8E7E19013EFFBBEF403F747DC0425AFA.e.96")>` to card
+2024-10-15 20:29:26,317:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 20:29:28,485:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:40:14,313:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:40:14,315:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:40:14,315:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:40:14,315:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:40:18,395:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:40:18,395:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:40:18,395:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:40:18,756:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:40:20,841:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:40:20,851:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:40:20,860:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:40:20,874:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:40:20,890:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:40:20,913:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:40:20,921:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 20:40:20,921:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="f165fed69047236f882b83cef010e0f9", element="f.2582405D545279EF0638D765673B38AA.d.75B00A3150659AEF420D566347242BBA.e.79")>` to card
+2024-10-15 20:40:20,978:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 20:40:20,978:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="f165fed69047236f882b83cef010e0f9", element="f.2582405D545279EF0638D765673B38AA.d.75B00A3150659AEF420D566347242BBA.e.93")>` to card
+2024-10-15 20:40:21,023:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 20:40:21,023:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="f165fed69047236f882b83cef010e0f9", element="f.2582405D545279EF0638D765673B38AA.d.75B00A3150659AEF420D566347242BBA.e.94")>` to card
+2024-10-15 20:40:21,060:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 20:40:21,135:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 20:40:21,135:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 20:40:21,536:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:44:39,492:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:44:39,492:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:44:39,493:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:44:39,493:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:44:42,216:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:44:42,216:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:44:42,216:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:44:42,618:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:44:44,704:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:44:44,714:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:44:44,722:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:44:44,737:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:44:44,753:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:44:44,774:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:44:44,783:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 20:44:44,783:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="f29f77a3d249ab3808f9840bdba63c83", element="f.583E88359FA2FD73A79A108C304C01BD.d.5C565B0846CB556FCFAB6C2C7DE03372.e.81")>` to card
+2024-10-15 20:44:44,847:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 20:44:44,849:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="f29f77a3d249ab3808f9840bdba63c83", element="f.583E88359FA2FD73A79A108C304C01BD.d.5C565B0846CB556FCFAB6C2C7DE03372.e.92")>` to card
+2024-10-15 20:44:44,898:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 20:44:44,898:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="f29f77a3d249ab3808f9840bdba63c83", element="f.583E88359FA2FD73A79A108C304C01BD.d.5C565B0846CB556FCFAB6C2C7DE03372.e.93")>` to card
+2024-10-15 20:44:44,936:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 20:44:45,013:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 20:44:45,013:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 20:44:45,333:TEST : INFO : SharedLogger : [PAGE] Proceed to checkout
+2024-10-15 20:44:45,380:TEST : INFO : SharedLogger : [PAGE] Initializing CartPage page.
+2024-10-15 20:44:47,381:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_5.png
+2024-10-15 20:44:47,648:TEST : INFO : SharedLogger : [PAGE] Get total amount value
+2024-10-15 20:44:47,663:TEST : INFO : SharedLogger : [PAGE] Get prices
+2024-10-15 20:44:47,688:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From table cell:`388`!----
+2024-10-15 20:44:47,688:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From Summary cell :`388`!----
+2024-10-15 20:44:47,688:TEST : INFO : SharedLogger : [PAGE] Set promo_code `rahulshettyacademy`
+2024-10-15 20:44:47,787:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_7.png
+2024-10-15 20:44:48,056:TEST : INFO : SharedLogger : [PAGE] Apply promo_code
+2024-10-15 20:44:48,092:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_8.png
+2024-10-15 20:44:48,444:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:47:04,479:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:47:04,480:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:47:04,480:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:47:04,482:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:47:07,542:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:47:07,542:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:47:07,542:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:47:07,944:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:47:10,031:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:47:10,041:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:47:10,050:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:47:10,064:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:47:10,080:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:47:10,101:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:47:10,110:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 20:47:10,110:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="5ab8d3680d9cca02924226c776aa351f", element="f.2FAA207CD51569B0ECBDDD86A498AAE7.d.6708AD9082ED7AD49F3E99BC87BB5C4C.e.81")>` to card
+2024-10-15 20:47:10,165:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 20:47:10,165:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="5ab8d3680d9cca02924226c776aa351f", element="f.2FAA207CD51569B0ECBDDD86A498AAE7.d.6708AD9082ED7AD49F3E99BC87BB5C4C.e.93")>` to card
+2024-10-15 20:47:10,218:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 20:47:10,218:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="5ab8d3680d9cca02924226c776aa351f", element="f.2FAA207CD51569B0ECBDDD86A498AAE7.d.6708AD9082ED7AD49F3E99BC87BB5C4C.e.94")>` to card
+2024-10-15 20:47:10,258:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 20:47:10,337:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 20:47:10,337:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 20:47:10,708:TEST : INFO : SharedLogger : [PAGE] Proceed to checkout
+2024-10-15 20:47:10,745:TEST : INFO : SharedLogger : [PAGE] Initializing CartPage page.
+2024-10-15 20:47:12,747:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_5.png
+2024-10-15 20:47:13,011:TEST : INFO : SharedLogger : [PAGE] Get total amount value
+2024-10-15 20:47:13,026:TEST : INFO : SharedLogger : [PAGE] Get prices
+2024-10-15 20:47:13,052:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From table cell:`388`!----
+2024-10-15 20:47:13,052:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From Summary cell :`388`!----
+2024-10-15 20:47:13,052:TEST : INFO : SharedLogger : [PAGE] Set promo_code `rahulshettyacademy`
+2024-10-15 20:47:13,138:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_7.png
+2024-10-15 20:47:13,396:TEST : INFO : SharedLogger : [PAGE] Apply promo_code
+2024-10-15 20:47:13,428:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_8.png
+2024-10-15 20:47:13,714:TEST : INFO : SharedLogger : [PAGE] Get promo_info
+2024-10-15 20:47:15,840:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:50:44,793:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:50:44,794:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:50:44,794:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:50:44,794:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:50:47,913:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:50:47,913:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:50:47,913:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:50:48,376:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:50:50,457:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:50:50,467:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:50:50,474:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:50:50,489:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:50:50,505:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:50:50,526:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:50:50,535:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 20:50:50,535:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="11e6185dc3dd52516dbbbecde5a4c5ff", element="f.C3CCA86DB83B9210718F5C32F343391A.d.264E4DFE55DB436CC6C864BC2E16A08C.e.81")>` to card
+2024-10-15 20:50:50,590:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 20:50:50,590:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="11e6185dc3dd52516dbbbecde5a4c5ff", element="f.C3CCA86DB83B9210718F5C32F343391A.d.264E4DFE55DB436CC6C864BC2E16A08C.e.95")>` to card
+2024-10-15 20:50:50,636:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 20:50:50,636:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="11e6185dc3dd52516dbbbecde5a4c5ff", element="f.C3CCA86DB83B9210718F5C32F343391A.d.264E4DFE55DB436CC6C864BC2E16A08C.e.96")>` to card
+2024-10-15 20:50:50,675:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 20:50:50,754:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 20:50:50,754:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 20:50:51,165:TEST : INFO : SharedLogger : [PAGE] Proceed to checkout
+2024-10-15 20:50:51,205:TEST : INFO : SharedLogger : [PAGE] Initializing CartPage page.
+2024-10-15 20:50:53,206:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_5.png
+2024-10-15 20:50:53,498:TEST : INFO : SharedLogger : [PAGE] Get total amount value
+2024-10-15 20:50:53,512:TEST : INFO : SharedLogger : [PAGE] Get prices
+2024-10-15 20:50:53,535:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From table cell:`388`!----
+2024-10-15 20:50:53,535:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From Summary cell :`388`!----
+2024-10-15 20:50:53,535:TEST : INFO : SharedLogger : [PAGE] Set promo_code `rahulshettyacademy`
+2024-10-15 20:50:53,620:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_7.png
+2024-10-15 20:50:53,885:TEST : INFO : SharedLogger : [PAGE] Apply promo_code
+2024-10-15 20:50:53,916:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_8.png
+2024-10-15 20:50:54,293:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:53:21,840:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:53:21,841:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:53:21,841:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:53:21,842:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:53:24,891:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:53:24,891:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:53:24,891:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:53:25,371:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:53:27,453:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:53:27,463:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:53:27,472:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:53:27,487:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:53:27,504:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:53:27,526:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:53:27,535:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 20:53:27,535:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="3b56d4837cbe7adfe418dbc8135c0a26", element="f.5A2E43F42E5C4F6D5EB788005BBAD55A.d.8D6B251E7F4DC044BE0D7E519BF50E18.e.79")>` to card
+2024-10-15 20:53:27,591:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 20:53:27,591:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="3b56d4837cbe7adfe418dbc8135c0a26", element="f.5A2E43F42E5C4F6D5EB788005BBAD55A.d.8D6B251E7F4DC044BE0D7E519BF50E18.e.93")>` to card
+2024-10-15 20:53:27,638:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 20:53:27,638:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="3b56d4837cbe7adfe418dbc8135c0a26", element="f.5A2E43F42E5C4F6D5EB788005BBAD55A.d.8D6B251E7F4DC044BE0D7E519BF50E18.e.94")>` to card
+2024-10-15 20:53:27,676:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 20:53:27,751:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 20:53:27,751:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 20:53:28,162:TEST : INFO : SharedLogger : [PAGE] Proceed to checkout
+2024-10-15 20:53:28,199:TEST : INFO : SharedLogger : [PAGE] Initializing CartPage page.
+2024-10-15 20:53:30,200:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_5.png
+2024-10-15 20:53:30,472:TEST : INFO : SharedLogger : [PAGE] Get total amount value
+2024-10-15 20:53:30,486:TEST : INFO : SharedLogger : [PAGE] Get prices
+2024-10-15 20:53:30,510:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From table cell:`388`!----
+2024-10-15 20:53:30,510:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From Summary cell :`388`!----
+2024-10-15 20:53:30,510:TEST : INFO : SharedLogger : [PAGE] Set promo_code `rahulshettyacademy`
+2024-10-15 20:53:30,596:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_7.png
+2024-10-15 20:53:30,878:TEST : INFO : SharedLogger : [PAGE] Apply promo_code
+2024-10-15 20:53:30,910:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_8.png
+2024-10-15 20:53:36,280:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_9.png
+2024-10-15 20:53:36,563:TEST : INFO : SharedLogger : [PAGE] Get discount_percents
+2024-10-15 20:53:36,578:TEST : INFO : SharedLogger : [PAGE] Get discount_percents sum
+2024-10-15 20:53:36,590:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third float price with/without discount `349.2`/`388`!----
+2024-10-15 20:53:36,590:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Total amount with/without discount:`349.2`/`10`!----
+2024-10-15 20:53:36,590:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third process summary:`349.2`!----
+2024-10-15 20:53:36,590:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third end!----
+2024-10-15 20:53:36,595:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 20:53:51,160:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 20:53:51,161:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 20:53:51,161:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:53:51,161:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 20:53:53,844:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 20:53:53,844:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 20:53:53,844:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 20:53:54,253:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 20:53:56,334:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 20:53:56,344:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 20:53:56,352:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 20:53:56,366:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:53:56,383:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:53:56,405:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 20:53:56,414:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 20:53:56,414:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="87be5934f743501c67ab7313ea68bd61", element="f.2C44DC3F3338148E4496EBE100EF95AD.d.98649D2566E99F386F9F6799FB7EF384.e.82")>` to card
+2024-10-15 20:53:56,467:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 20:53:56,467:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="87be5934f743501c67ab7313ea68bd61", element="f.2C44DC3F3338148E4496EBE100EF95AD.d.98649D2566E99F386F9F6799FB7EF384.e.94")>` to card
+2024-10-15 20:53:56,517:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 20:53:56,517:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="87be5934f743501c67ab7313ea68bd61", element="f.2C44DC3F3338148E4496EBE100EF95AD.d.98649D2566E99F386F9F6799FB7EF384.e.95")>` to card
+2024-10-15 20:53:56,559:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 20:53:56,647:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 20:53:56,647:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 20:53:56,996:TEST : INFO : SharedLogger : [PAGE] Proceed to checkout
+2024-10-15 20:53:57,033:TEST : INFO : SharedLogger : [PAGE] Initializing CartPage page.
+2024-10-15 20:53:59,033:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_5.png
+2024-10-15 20:53:59,286:TEST : INFO : SharedLogger : [PAGE] Get total amount value
+2024-10-15 20:53:59,300:TEST : INFO : SharedLogger : [PAGE] Get prices
+2024-10-15 20:53:59,325:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From table cell:`388`!----
+2024-10-15 20:53:59,325:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From Summary cell :`388`!----
+2024-10-15 20:53:59,325:TEST : INFO : SharedLogger : [PAGE] Set promo_code `rahulshettyacademy`
+2024-10-15 20:53:59,411:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_7.png
+2024-10-15 20:53:59,689:TEST : INFO : SharedLogger : [PAGE] Apply promo_code
+2024-10-15 20:53:59,722:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_8.png
+2024-10-15 20:54:05,057:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_9.png
+2024-10-15 20:54:05,325:TEST : INFO : SharedLogger : [PAGE] Get discount_percents
+2024-10-15 20:54:05,338:TEST : INFO : SharedLogger : [PAGE] Get discount_percents sum
+2024-10-15 20:54:05,350:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third float price with/without discount `349.2`/`388`!----
+2024-10-15 20:54:05,350:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Total amount with/without discount:`349.2`/`10`!----
+2024-10-15 20:54:05,350:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third process summary:`349.2`!----
+2024-10-15 20:54:05,350:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third end!----
+2024-10-15 20:54:05,355:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:06:08,017:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:06:08,019:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:06:08,019:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:06:08,019:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:06:09,727:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:06:09,727:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:09,727:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:06:09,820:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:09,820:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:06:09,887:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:09,887:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:06:09,962:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:09,962:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:06:10,000:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:10,000:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_1.png
+2024-10-15 21:06:10,364:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:06:10,399:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:06:10,443:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:10,443:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:06:10,464:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_1.png
+2024-10-15 21:06:10,844:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:06:10,849:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:06:10,856:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:06:10,857:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:06:10,857:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:06:10,857:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:06:10,907:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:06:10,908:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:10,908:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:06:10,990:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:10,990:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:06:11,054:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:11,054:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:06:11,174:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:11,175:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:06:11,207:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:11,207:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_2.png
+2024-10-15 21:06:11,578:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:06:11,637:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:06:11,672:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:06:11,672:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:06:11,687:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_2.png
+2024-10-15 21:06:12,048:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:06:12,053:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:22:42,845:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:22:42,845:TEST : INFO : SharedLogger : [TEST] --- test_always_fail run!----
+2024-10-15 21:22:42,845:TEST : INFO : SharedLogger : [TEST] --- test_always_fail fail in next step!----
+2024-10-15 21:22:42,900:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:23:19,462:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:23:19,463:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select run!----
+2024-10-15 21:23:19,463:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:19,463:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/shop`
+2024-10-15 21:23:21,788:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:21,934:TEST : INFO : SharedLogger : [PAGE] click shop btn
+2024-10-15 21:23:21,934:TEST : INFO : SharedLogger : [PAGE] Initializing ShopPage page.
+2024-10-15 21:23:21,934:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach1
+2024-10-15 21:23:22,301:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach2
+2024-10-15 21:23:22,602:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select shop_item_list:`[<selenium.webdriver.remote.webelement.WebElement (session="78ff9d62d5d76ee000dc0723f5777dc6", element="f.D1DC14D722846552BF8A2256F824115D.d.E82B36B243830E23799A9ED921951A53.e.50")>, <selenium.webdriver.remote.webelement.WebElement (session="78ff9d62d5d76ee000dc0723f5777dc6", element="f.D1DC14D722846552BF8A2256F824115D.d.E82B36B243830E23799A9ED921951A53.e.51")>, <selenium.webdriver.remote.webelement.WebElement (session="78ff9d62d5d76ee000dc0723f5777dc6", element="f.D1DC14D722846552BF8A2256F824115D.d.E82B36B243830E23799A9ED921951A53.e.52")>, <selenium.webdriver.remote.webelement.WebElement (session="78ff9d62d5d76ee000dc0723f5777dc6", element="f.D1DC14D722846552BF8A2256F824115D.d.E82B36B243830E23799A9ED921951A53.e.53")>]`.!----
+2024-10-15 21:23:22,633:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`iphone X`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg`.!----
+2024-10-15 21:23:22,655:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Samsung Note 8`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg`.!----
+2024-10-15 21:23:22,674:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Nokia Edge`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg`.!----
+2024-10-15 21:23:22,692:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Blackberry`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg`.!----
+2024-10-15 21:23:22,693:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select actual text:`Blackberry`, expected name:`Blackberry`.!----
+2024-10-15 21:23:22,693:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach3
+2024-10-15 21:23:22,999:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select end!----
+2024-10-15 21:23:23,002:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:23:26,229:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:23:26,230:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table run!----
+2024-10-15 21:23:26,231:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:26,231:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/offers`
+2024-10-15 21:23:27,623:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:27,623:TEST : INFO : SharedLogger : [PAGE] Initializing PlantTablePage page.
+2024-10-15 21:23:27,875:TEST : INFO : SharedLogger : [PAGE] Select `2` page size
+2024-10-15 21:23:27,876:TEST : INFO : SharedLogger : [PAGE] Get list of vegetables
+2024-10-15 21:23:28,014:TEST : INFO : SharedLogger : [PAGE] Table sorted by name
+2024-10-15 21:23:28,049:TEST : INFO : SharedLogger : [PAGE] Get list of vegetables
+2024-10-15 21:23:28,171:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table going do assertion!----
+2024-10-15 21:23:28,172:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table end!----
+2024-10-15 21:23:28,172:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:23:31,342:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:23:31,343:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 21:23:31,343:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:31,343:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 21:23:34,038:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:34,038:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 21:23:34,039:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 21:23:34,380:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 21:23:36,485:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 21:23:36,495:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 21:23:36,504:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 21:23:36,518:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:23:36,534:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:23:36,555:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:23:36,564:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 21:23:36,565:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="b6d967aa629ef9abdb963ea5bc821c12", element="f.A7F74A84165D6EBDB73FD94924DC3AB3.d.D0A3A04A9661E8C2FE8E43C1180CE415.e.82")>` to card
+2024-10-15 21:23:36,623:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 21:23:36,623:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="b6d967aa629ef9abdb963ea5bc821c12", element="f.A7F74A84165D6EBDB73FD94924DC3AB3.d.D0A3A04A9661E8C2FE8E43C1180CE415.e.94")>` to card
+2024-10-15 21:23:36,674:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 21:23:36,675:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="b6d967aa629ef9abdb963ea5bc821c12", element="f.A7F74A84165D6EBDB73FD94924DC3AB3.d.D0A3A04A9661E8C2FE8E43C1180CE415.e.95")>` to card
+2024-10-15 21:23:36,717:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 21:23:36,800:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 21:23:36,800:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 21:23:37,155:TEST : INFO : SharedLogger : [PAGE] Proceed to checkout
+2024-10-15 21:23:37,191:TEST : INFO : SharedLogger : [PAGE] Initializing CartPage page.
+2024-10-15 21:23:39,192:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_5.png
+2024-10-15 21:23:39,443:TEST : INFO : SharedLogger : [PAGE] Get total amount value
+2024-10-15 21:23:39,457:TEST : INFO : SharedLogger : [PAGE] Get prices
+2024-10-15 21:23:39,481:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From table cell:`388`!----
+2024-10-15 21:23:39,481:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From Summary cell :`388`!----
+2024-10-15 21:23:39,481:TEST : INFO : SharedLogger : [PAGE] Set promo_code `rahulshettyacademy`
+2024-10-15 21:23:39,563:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_7.png
+2024-10-15 21:23:39,826:TEST : INFO : SharedLogger : [PAGE] Apply promo_code
+2024-10-15 21:23:39,858:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_8.png
+2024-10-15 21:23:45,242:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_9.png
+2024-10-15 21:23:45,499:TEST : INFO : SharedLogger : [PAGE] Get discount_percents
+2024-10-15 21:23:45,512:TEST : INFO : SharedLogger : [PAGE] Get discount_percents sum
+2024-10-15 21:23:45,526:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third float price with/without discount `349.2`/`388`!----
+2024-10-15 21:23:45,526:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Total amount with/without discount:`349.2`/`10`!----
+2024-10-15 21:23:45,526:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third process summary:`349.2`!----
+2024-10-15 21:23:45,526:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third end!----
+2024-10-15 21:23:45,530:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:23:48,742:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:23:48,743:TEST : INFO : SharedLogger : [TEST] --- test_always_fail run!----
+2024-10-15 21:23:48,744:TEST : INFO : SharedLogger : [TEST] --- test_always_fail fail in next step!----
+2024-10-15 21:23:48,846:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:23:52,022:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:23:52,024:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:23:52,024:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:52,024:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:23:53,804:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:53,804:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:53,805:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:23:53,897:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:53,897:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:23:53,961:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:53,961:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:23:54,030:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:54,030:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:23:54,066:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:54,066:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_1.png
+2024-10-15 21:23:54,432:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:23:54,462:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:23:54,506:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:54,507:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:23:54,527:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_1.png
+2024-10-15 21:23:54,899:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:23:54,903:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:23:54,908:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:23:54,909:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:23:54,909:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:54,909:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:23:54,959:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:54,959:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:54,959:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:23:55,036:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:55,036:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:23:55,097:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:55,097:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:23:55,211:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:55,211:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:23:55,242:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:55,243:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_2.png
+2024-10-15 21:23:55,601:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:23:55,648:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:23:55,683:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:23:55,683:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:23:55,698:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_2.png
+2024-10-15 21:23:56,075:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:23:56,078:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:23:59,248:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:23:59,249:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic run!----
+2024-10-15 21:23:59,249:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:23:59,249:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:24:01,031:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:24:01,032:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:01,032:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:24:01,122:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:01,123:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:24:01,189:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:01,190:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:24:01,259:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:01,260:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:24:01,296:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:01,296:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_1.png
+2024-10-15 21:24:01,651:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:24:01,683:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:24:01,722:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:01,723:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:24:01,744:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_1.png
+2024-10-15 21:24:02,111:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic end!----
+2024-10-15 21:24:02,114:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:24:02,121:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:24:02,122:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic run!----
+2024-10-15 21:24:02,122:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:24:02,122:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:24:02,172:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:24:02,172:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:02,173:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:24:02,247:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:02,247:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:24:02,307:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:02,308:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:24:02,425:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:02,425:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:24:02,456:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:02,457:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_2.png
+2024-10-15 21:24:02,832:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:24:02,879:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:24:02,913:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:24:02,913:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:24:02,928:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_2.png
+2024-10-15 21:24:03,314:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic end!----
+2024-10-15 21:24:03,317:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:32:22,564:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:32:22,565:TEST : INFO : SharedLogger : [TEST] --- test_always_fail run!----
+2024-10-15 21:32:22,566:TEST : INFO : SharedLogger : [TEST] --- test_always_fail fail in next step!----
+2024-10-15 21:32:22,656:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:33:52,282:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:33:52,283:TEST : INFO : SharedLogger : [TEST] --- test_always_fail run!----
+2024-10-15 21:33:52,283:TEST : INFO : SharedLogger : [TEST] --- test_always_fail fail in next step!----
+2024-10-15 21:33:52,354:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:38:38,653:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:38:38,654:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select run!----
+2024-10-15 21:38:38,654:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:38:38,654:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/shop`
+2024-10-15 21:38:40,813:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:38:40,958:TEST : INFO : SharedLogger : [PAGE] click shop btn
+2024-10-15 21:38:40,958:TEST : INFO : SharedLogger : [PAGE] Initializing ShopPage page.
+2024-10-15 21:38:40,959:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach1
+2024-10-15 21:38:41,314:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach2
+2024-10-15 21:38:41,617:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select shop_item_list:`[<selenium.webdriver.remote.webelement.WebElement (session="61a18cb8227c578a8f5af41e9bbbc8a6", element="f.D6260C63D5C76401179476198238323D.d.370CAD669B5D28D03A0BB0C4C8D2DE6C.e.47")>, <selenium.webdriver.remote.webelement.WebElement (session="61a18cb8227c578a8f5af41e9bbbc8a6", element="f.D6260C63D5C76401179476198238323D.d.370CAD669B5D28D03A0BB0C4C8D2DE6C.e.48")>, <selenium.webdriver.remote.webelement.WebElement (session="61a18cb8227c578a8f5af41e9bbbc8a6", element="f.D6260C63D5C76401179476198238323D.d.370CAD669B5D28D03A0BB0C4C8D2DE6C.e.49")>, <selenium.webdriver.remote.webelement.WebElement (session="61a18cb8227c578a8f5af41e9bbbc8a6", element="f.D6260C63D5C76401179476198238323D.d.370CAD669B5D28D03A0BB0C4C8D2DE6C.e.50")>]`.!----
+2024-10-15 21:38:41,649:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`iphone X`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg`.!----
+2024-10-15 21:38:41,669:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Samsung Note 8`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg`.!----
+2024-10-15 21:38:41,689:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Nokia Edge`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg`.!----
+2024-10-15 21:38:41,709:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Blackberry`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg`.!----
+2024-10-15 21:38:41,709:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select actual text:`Blackberry`, expected name:`Blackberry`.!----
+2024-10-15 21:38:41,709:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach3
+2024-10-15 21:38:42,008:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select end!----
+2024-10-15 21:38:42,010:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:38:45,219:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:38:45,220:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table run!----
+2024-10-15 21:38:45,220:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:38:45,220:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/offers`
+2024-10-15 21:38:46,890:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:38:46,890:TEST : INFO : SharedLogger : [PAGE] Initializing PlantTablePage page.
+2024-10-15 21:38:47,181:TEST : INFO : SharedLogger : [PAGE] Select `2` page size
+2024-10-15 21:38:47,181:TEST : INFO : SharedLogger : [PAGE] Get list of vegetables
+2024-10-15 21:38:47,308:TEST : INFO : SharedLogger : [PAGE] Table sorted by name
+2024-10-15 21:38:47,343:TEST : INFO : SharedLogger : [PAGE] Get list of vegetables
+2024-10-15 21:38:47,455:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table going do assertion!----
+2024-10-15 21:38:47,456:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table end!----
+2024-10-15 21:38:47,456:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:38:50,616:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:38:50,618:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 21:38:50,618:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:38:50,618:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 21:38:53,455:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:38:53,455:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 21:38:53,455:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 21:38:53,835:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 21:38:55,935:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 21:38:55,944:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 21:38:55,953:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 21:38:55,968:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:38:55,986:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:38:56,009:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:38:56,017:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 21:38:56,018:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="abaf114e4814cec4c10809a0f02e60c8", element="f.E5296D9DC3C5D7A5C9CECA095683B6C0.d.99F8D29F7647F67A2C4198A275958AC2.e.82")>` to card
+2024-10-15 21:38:56,075:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 21:38:56,077:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="abaf114e4814cec4c10809a0f02e60c8", element="f.E5296D9DC3C5D7A5C9CECA095683B6C0.d.99F8D29F7647F67A2C4198A275958AC2.e.94")>` to card
+2024-10-15 21:38:56,125:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 21:38:56,126:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="abaf114e4814cec4c10809a0f02e60c8", element="f.E5296D9DC3C5D7A5C9CECA095683B6C0.d.99F8D29F7647F67A2C4198A275958AC2.e.95")>` to card
+2024-10-15 21:38:56,167:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 21:38:56,249:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 21:38:56,250:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 21:38:56,582:TEST : INFO : SharedLogger : [PAGE] Proceed to checkout
+2024-10-15 21:38:56,624:TEST : INFO : SharedLogger : [PAGE] Initializing CartPage page.
+2024-10-15 21:38:58,625:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_5.png
+2024-10-15 21:38:58,931:TEST : INFO : SharedLogger : [PAGE] Get total amount value
+2024-10-15 21:38:58,947:TEST : INFO : SharedLogger : [PAGE] Get prices
+2024-10-15 21:38:58,974:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From table cell:`388`!----
+2024-10-15 21:38:58,974:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From Summary cell :`388`!----
+2024-10-15 21:38:58,974:TEST : INFO : SharedLogger : [PAGE] Set promo_code `rahulshettyacademy`
+2024-10-15 21:38:59,028:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_7.png
+2024-10-15 21:38:59,338:TEST : INFO : SharedLogger : [PAGE] Apply promo_code
+2024-10-15 21:38:59,373:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_8.png
+2024-10-15 21:39:04,725:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_9.png
+2024-10-15 21:39:05,000:TEST : INFO : SharedLogger : [PAGE] Get discount_percents
+2024-10-15 21:39:05,017:TEST : INFO : SharedLogger : [PAGE] Get discount_percents sum
+2024-10-15 21:39:05,033:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third float price with/without discount `349.2`/`388`!----
+2024-10-15 21:39:05,033:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Total amount with/without discount:`349.2`/`10`!----
+2024-10-15 21:39:05,033:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third process summary:`349.2`!----
+2024-10-15 21:39:05,033:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third end!----
+2024-10-15 21:39:05,038:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:39:08,282:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:39:08,283:TEST : INFO : SharedLogger : [TEST] --- test_always_fail run!----
+2024-10-15 21:39:08,283:TEST : INFO : SharedLogger : [TEST] --- test_always_fail fail in next step!----
+2024-10-15 21:39:08,365:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:39:11,548:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:39:11,551:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:39:11,551:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:39:11,551:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:39:13,163:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:39:13,163:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:13,163:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:39:13,226:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:13,226:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:39:13,284:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:13,284:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:39:13,333:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:13,333:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:39:13,371:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:13,371:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_1.png
+2024-10-15 21:39:13,752:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:39:13,785:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:39:13,835:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:13,835:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:39:13,862:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_1.png
+2024-10-15 21:39:14,260:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:39:14,263:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:39:14,271:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:39:14,271:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:39:14,272:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:39:14,272:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:39:14,324:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:39:14,324:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:14,324:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:39:14,374:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:14,374:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:39:14,416:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:14,416:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:39:14,462:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:14,462:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:39:14,494:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:14,494:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_2.png
+2024-10-15 21:39:14,876:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:39:14,924:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:39:14,957:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:14,958:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:39:14,972:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_2.png
+2024-10-15 21:39:15,376:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:39:15,380:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:39:18,541:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:39:18,542:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic run!----
+2024-10-15 21:39:18,543:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:39:18,543:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:39:20,334:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:39:20,334:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:20,335:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:39:20,403:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:20,403:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:39:20,457:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:20,458:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:39:20,506:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:20,507:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:39:20,545:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:20,545:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_1.png
+2024-10-15 21:39:20,960:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:39:20,995:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:39:21,046:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:21,047:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:39:21,070:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_1.png
+2024-10-15 21:39:21,469:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic end!----
+2024-10-15 21:39:21,472:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:39:21,490:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:39:21,490:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic run!----
+2024-10-15 21:39:21,491:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:39:21,491:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:39:21,543:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:39:21,543:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:21,543:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:39:21,595:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:21,595:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:39:21,636:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:21,637:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:39:21,680:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:21,681:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:39:21,714:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:21,715:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_2.png
+2024-10-15 21:39:22,096:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:39:22,144:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:39:22,180:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:39:22,180:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:39:22,195:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_2.png
+2024-10-15 21:39:22,567:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic end!----
+2024-10-15 21:39:22,571:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:44:56,366:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:44:56,370:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic run!----
+2024-10-15 21:44:56,371:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:56,371:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:44:56,466:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:44:56,468:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic run!----
+2024-10-15 21:44:56,469:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:56,469:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:44:56,479:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:44:56,482:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 21:44:56,482:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:56,482:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 21:44:56,496:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:44:56,498:TEST : INFO : SharedLogger : [TEST] --- test_always_x_fail run!----
+2024-10-15 21:44:56,499:TEST : INFO : SharedLogger : [TEST] --- test_always_x_fail fail in next step!----
+2024-10-15 21:44:56,500:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:44:56,503:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table run!----
+2024-10-15 21:44:56,503:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:56,504:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/offers`
+2024-10-15 21:44:56,522:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:44:56,524:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select run!----
+2024-10-15 21:44:56,524:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:56,525:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/shop`
+2024-10-15 21:44:56,531:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:44:56,538:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:44:56,538:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:56,539:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:44:56,541:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:44:56,542:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:44:56,550:TEST : INFO : SharedLogger : [TEST] --- test_always_fail run!----
+2024-10-15 21:44:56,550:TEST : INFO : SharedLogger : [TEST] --- test_always_fail fail in next step!----
+2024-10-15 21:44:56,568:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:44:56,568:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:56,569:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:44:56,700:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:44:56,723:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:44:58,055:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:58,055:TEST : INFO : SharedLogger : [PAGE] Initializing PlantTablePage page.
+2024-10-15 21:44:58,353:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:58,353:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,354:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:44:58,362:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:58,363:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,364:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:44:58,445:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:58,445:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,445:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:44:58,478:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:58,479:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,479:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:44:58,599:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,599:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:44:58,694:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,694:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:44:58,746:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,747:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:44:58,756:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,756:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:44:58,786:TEST : INFO : SharedLogger : [PAGE] Select `2` page size
+2024-10-15 21:44:58,786:TEST : INFO : SharedLogger : [PAGE] Get list of vegetables
+2024-10-15 21:44:58,823:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,823:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:44:58,848:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,848:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:44:58,877:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,877:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:44:58,942:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,943:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:44:58,956:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,957:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:44:58,980:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:58,981:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:44:58,997:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:44:59,009:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:59,009:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:44:59,046:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:59,046:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_1.png
+2024-10-15 21:44:59,058:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:59,058:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_2.png
+2024-10-15 21:44:59,100:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:59,100:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_1.png
+2024-10-15 21:44:59,149:TEST : INFO : SharedLogger : [PAGE] Table sorted by name
+2024-10-15 21:44:59,223:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:59,223:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:44:59,260:TEST : INFO : SharedLogger : [PAGE] Get list of vegetables
+2024-10-15 21:44:59,276:TEST : INFO : SharedLogger : [PAGE] click shop btn
+2024-10-15 21:44:59,276:TEST : INFO : SharedLogger : [PAGE] Initializing ShopPage page.
+2024-10-15 21:44:59,276:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach1
+2024-10-15 21:44:59,281:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:59,282:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_2.png
+2024-10-15 21:44:59,448:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table going do assertion!----
+2024-10-15 21:44:59,449:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table end!----
+2024-10-15 21:44:59,450:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:44:59,582:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:44:59,597:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:44:59,635:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:44:59,660:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:44:59,687:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:44:59,700:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:59,700:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:44:59,709:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:44:59,730:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_1.png
+2024-10-15 21:44:59,756:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:59,756:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:44:59,776:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:44:59,776:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:44:59,788:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:44:59,810:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_2.png
+2024-10-15 21:44:59,832:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_1.png
+2024-10-15 21:44:59,851:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach2
+2024-10-15 21:44:59,916:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:44:59,999:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:45:00,000:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:45:00,044:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_2.png
+2024-10-15 21:45:00,293:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic end!----
+2024-10-15 21:45:00,302:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:45:00,312:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select shop_item_list:`[<selenium.webdriver.remote.webelement.WebElement (session="d1f225cb9b3f3a61085e8eb1249bd294", element="f.EE6843C35196782C9283F416D219A578.d.655F296A07FB98CB881BFDE20F5A04C2.e.49")>, <selenium.webdriver.remote.webelement.WebElement (session="d1f225cb9b3f3a61085e8eb1249bd294", element="f.EE6843C35196782C9283F416D219A578.d.655F296A07FB98CB881BFDE20F5A04C2.e.50")>, <selenium.webdriver.remote.webelement.WebElement (session="d1f225cb9b3f3a61085e8eb1249bd294", element="f.EE6843C35196782C9283F416D219A578.d.655F296A07FB98CB881BFDE20F5A04C2.e.51")>, <selenium.webdriver.remote.webelement.WebElement (session="d1f225cb9b3f3a61085e8eb1249bd294", element="f.EE6843C35196782C9283F416D219A578.d.655F296A07FB98CB881BFDE20F5A04C2.e.52")>]`.!----
+2024-10-15 21:45:00,366:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:45:00,367:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`iphone X`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg`.!----
+2024-10-15 21:45:00,377:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:45:00,414:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Samsung Note 8`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg`.!----
+2024-10-15 21:45:00,419:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:45:00,428:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:45:00,460:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Nokia Edge`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg`.!----
+2024-10-15 21:45:00,488:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Blackberry`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg`.!----
+2024-10-15 21:45:00,489:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select actual text:`Blackberry`, expected name:`Blackberry`.!----
+2024-10-15 21:45:00,489:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach3
+2024-10-15 21:45:00,539:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic end!----
+2024-10-15 21:45:00,551:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:45:00,872:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select end!----
+2024-10-15 21:45:00,878:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:45:01,129:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:45:01,131:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 21:45:01,131:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 21:45:01,492:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 21:45:03,590:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 21:45:03,600:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 21:45:03,608:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 21:45:03,623:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:45:03,641:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:45:03,667:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:45:03,675:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 21:45:03,676:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="91e50addc9b749c32a0b55a286b624d8", element="f.3378F678104F0686C2EEDD1210273993.d.C997C900D4874F7D6F9FA22F1E63CE75.e.74")>` to card
+2024-10-15 21:45:03,734:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 21:45:03,734:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="91e50addc9b749c32a0b55a286b624d8", element="f.3378F678104F0686C2EEDD1210273993.d.C997C900D4874F7D6F9FA22F1E63CE75.e.87")>` to card
+2024-10-15 21:45:03,789:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 21:45:03,789:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="91e50addc9b749c32a0b55a286b624d8", element="f.3378F678104F0686C2EEDD1210273993.d.C997C900D4874F7D6F9FA22F1E63CE75.e.88")>` to card
+2024-10-15 21:45:03,830:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 21:45:03,909:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 21:45:03,909:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 21:45:04,215:TEST : INFO : SharedLogger : [PAGE] Proceed to checkout
+2024-10-15 21:45:04,254:TEST : INFO : SharedLogger : [PAGE] Initializing CartPage page.
+2024-10-15 21:45:06,255:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_5.png
+2024-10-15 21:45:06,533:TEST : INFO : SharedLogger : [PAGE] Get total amount value
+2024-10-15 21:45:06,549:TEST : INFO : SharedLogger : [PAGE] Get prices
+2024-10-15 21:45:06,579:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From table cell:`388`!----
+2024-10-15 21:45:06,579:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From Summary cell :`388`!----
+2024-10-15 21:45:06,579:TEST : INFO : SharedLogger : [PAGE] Set promo_code `rahulshettyacademy`
+2024-10-15 21:45:06,678:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_7.png
+2024-10-15 21:45:06,938:TEST : INFO : SharedLogger : [PAGE] Apply promo_code
+2024-10-15 21:45:06,976:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_8.png
+2024-10-15 21:45:12,309:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_9.png
+2024-10-15 21:45:12,569:TEST : INFO : SharedLogger : [PAGE] Get discount_percents
+2024-10-15 21:45:12,583:TEST : INFO : SharedLogger : [PAGE] Get discount_percents sum
+2024-10-15 21:45:12,597:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third float price with/without discount `349.2`/`388`!----
+2024-10-15 21:45:12,597:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Total amount with/without discount:`349.2`/`10`!----
+2024-10-15 21:45:12,597:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third process summary:`349.2`!----
+2024-10-15 21:45:12,597:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third end!----
+2024-10-15 21:45:12,607:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:48:25,472:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:48:25,473:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select run!----
+2024-10-15 21:48:25,474:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:25,474:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/shop`
+2024-10-15 21:48:25,493:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:48:25,493:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:48:25,495:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third run!----
+2024-10-15 21:48:25,496:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:25,496:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/`
+2024-10-15 21:48:25,501:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:48:25,501:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:25,502:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:48:25,531:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:48:25,533:TEST : INFO : SharedLogger : [TEST] --- test_always_x_fail run!----
+2024-10-15 21:48:25,533:TEST : INFO : SharedLogger : [TEST] --- test_always_x_fail x-fail in next step!----
+2024-10-15 21:48:25,546:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:48:25,550:TEST : INFO : SharedLogger : [TEST] --- test_always_fail run!----
+2024-10-15 21:48:25,551:TEST : INFO : SharedLogger : [TEST] --- test_always_fail fail in next step!----
+2024-10-15 21:48:25,584:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:48:25,590:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic run!----
+2024-10-15 21:48:25,591:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:25,591:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:48:25,614:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:48:25,619:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic run!----
+2024-10-15 21:48:25,619:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:25,620:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:48:25,636:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:48:25,639:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table run!----
+2024-10-15 21:48:25,639:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:25,639:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/seleniumPractise/#/offers`
+2024-10-15 21:48:25,766:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:48:25,788:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:48:25,891:TEST : INFO : SharedLogger : ---started logging!---
+2024-10-15 21:48:25,895:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file run!----
+2024-10-15 21:48:25,895:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:25,895:TEST : INFO : SharedLogger : [PAGE] Open page `https://rahulshettyacademy.com/angularpractice/`
+2024-10-15 21:48:27,222:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:27,223:TEST : INFO : SharedLogger : [PAGE] Initializing PlantTablePage page.
+2024-10-15 21:48:27,413:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:27,414:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:27,414:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:48:27,478:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:27,479:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:27,479:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:48:27,758:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:27,758:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:48:27,772:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:27,772:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:48:27,933:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:27,934:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:48:27,951:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:27,951:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:27,952:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:48:27,963:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:27,976:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:27,977:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:48:28,249:TEST : INFO : SharedLogger : [PAGE] Select `2` page size
+2024-10-15 21:48:28,250:TEST : INFO : SharedLogger : [PAGE] Get list of vegetables
+2024-10-15 21:48:28,564:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:28,565:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:48:28,571:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:28,572:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:48:28,574:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:28,575:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:48:28,635:TEST : INFO : SharedLogger : [PAGE] click shop btn
+2024-10-15 21:48:28,635:TEST : INFO : SharedLogger : [PAGE] Initializing ShopPage page.
+2024-10-15 21:48:28,636:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach1
+2024-10-15 21:48:28,707:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:28,707:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_1.png
+2024-10-15 21:48:28,712:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:28,713:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_2.png
+2024-10-15 21:48:28,717:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:28,717:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:48:28,863:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:28,864:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:48:28,891:TEST : INFO : SharedLogger : [PAGE] Table sorted by name
+2024-10-15 21:48:28,940:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:28,940:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_1.png
+2024-10-15 21:48:28,959:TEST : INFO : SharedLogger : [PAGE] Get list of vegetables
+2024-10-15 21:48:29,076:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:29,076:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:29,076:TEST : INFO : SharedLogger : [PAGE] Click to shop button
+2024-10-15 21:48:29,188:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table going do assertion!----
+2024-10-15 21:48:29,188:TEST : INFO : SharedLogger : [TEST] --- test_e2e_sort_table end!----
+2024-10-15 21:48:29,190:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:48:29,212:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:29,213:TEST : INFO : SharedLogger : [PAGE] Set email: '{text}'
+2024-10-15 21:48:29,321:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:29,321:TEST : INFO : SharedLogger : [PAGE] Set password: `{text}`
+2024-10-15 21:48:29,342:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach2
+2024-10-15 21:48:29,357:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:48:29,360:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:48:29,428:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:48:29,432:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:29,432:TEST : INFO : SharedLogger : [PAGE] Click to ice-cream element
+2024-10-15 21:48:30,348:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:48:30,498:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:48:30,652:TEST : INFO : SharedLogger : [PAGE] Initializing BasePage page.
+2024-10-15 21:48:30,652:TEST : INFO : SharedLogger : [PAGE] Initializing PlantsCartPage page.
+2024-10-15 21:48:30,653:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_1.png
+2024-10-15 21:48:30,810:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:30,810:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:48:30,878:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:30,879:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_1_first_2.png
+2024-10-15 21:48:30,952:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_1.png
+2024-10-15 21:48:31,059:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select shop_item_list:`[<selenium.webdriver.remote.webelement.WebElement (session="52896c190d2b99d35287c8f4b0372586", element="f.29F826C503E946A24546D1A4846F1920.d.3351284FF6E7CECB6504EA0FEB3B75E8.e.49")>, <selenium.webdriver.remote.webelement.WebElement (session="52896c190d2b99d35287c8f4b0372586", element="f.29F826C503E946A24546D1A4846F1920.d.3351284FF6E7CECB6504EA0FEB3B75E8.e.50")>, <selenium.webdriver.remote.webelement.WebElement (session="52896c190d2b99d35287c8f4b0372586", element="f.29F826C503E946A24546D1A4846F1920.d.3351284FF6E7CECB6504EA0FEB3B75E8.e.51")>, <selenium.webdriver.remote.webelement.WebElement (session="52896c190d2b99d35287c8f4b0372586", element="f.29F826C503E946A24546D1A4846F1920.d.3351284FF6E7CECB6504EA0FEB3B75E8.e.52")>]`.!----
+2024-10-15 21:48:31,084:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:48:31,125:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:31,126:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:48:31,197:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_2.png
+2024-10-15 21:48:31,215:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`iphone X`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg`.!----
+2024-10-15 21:48:31,230:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:31,231:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:48:31,260:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Samsung Note 8`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg`.!----
+2024-10-15 21:48:31,266:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_1.png
+2024-10-15 21:48:31,298:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Nokia Edge`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg`.!----
+2024-10-15 21:48:31,343:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select element text:`Blackberry`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg`.!----
+2024-10-15 21:48:31,343:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select actual text:`Blackberry`, expected name:`Blackberry`.!----
+2024-10-15 21:48:31,343:TEST : INFO : SharedLogger : [PAGE] shot has name e2e_select_attach3
+2024-10-15 21:48:31,394:TEST : INFO : SharedLogger : [PAGE] Search for `ber`
+2024-10-15 21:48:31,542:TEST : INFO : SharedLogger : [PAGE] Get gender dropdown element
+2024-10-15 21:48:31,580:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:48:31,591:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:48:31,669:TEST : INFO : SharedLogger : [PAGE] Submit form
+2024-10-15 21:48:31,745:TEST : INFO : SharedLogger : [PAGE] Initializing HomePage page.
+2024-10-15 21:48:31,745:TEST : INFO : SharedLogger : [PAGE] Get success message text
+2024-10-15 21:48:31,796:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/py_po_submit_form_2_first_2.png
+2024-10-15 21:48:31,809:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic end!----
+2024-10-15 21:48:31,822:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:48:31,840:TEST : INFO : SharedLogger : [TEST] --- test_e2e_select end!----
+2024-10-15 21:48:31,849:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:48:31,875:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_shared_dic end!----
+2024-10-15 21:48:31,888:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:48:32,339:TEST : INFO : SharedLogger : [TEST] --- test_form_submission_dic_in_file end!----
+2024-10-15 21:48:32,351:TEST : INFO : SharedLogger : ---finished logging!---
+2024-10-15 21:48:33,522:TEST : INFO : SharedLogger : [PAGE] get list of plants
+2024-10-15 21:48:33,532:TEST : INFO : SharedLogger : [PAGE] get list of product names
+2024-10-15 21:48:33,541:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third exercise_list size: 3!----
+2024-10-15 21:48:33,560:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:48:33,580:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:48:33,604:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Check result: True!----
+2024-10-15 21:48:33,614:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.!----
+2024-10-15 21:48:33,614:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="4d07f6eb15b45e821051d78ed7fc24c3", element="f.08EFB2ADDD28ADAA30EFFB7A9266ABEE.d.372C2B660735BA2476E282E73A767879.e.75")>` to card
+2024-10-15 21:48:33,676:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.!----
+2024-10-15 21:48:33,676:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="4d07f6eb15b45e821051d78ed7fc24c3", element="f.08EFB2ADDD28ADAA30EFFB7A9266ABEE.d.372C2B660735BA2476E282E73A767879.e.88")>` to card
+2024-10-15 21:48:33,774:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.!----
+2024-10-15 21:48:33,774:TEST : INFO : SharedLogger : [PAGE] Add `<selenium.webdriver.remote.webelement.WebElement (session="4d07f6eb15b45e821051d78ed7fc24c3", element="f.08EFB2ADDD28ADAA30EFFB7A9266ABEE.d.372C2B660735BA2476E282E73A767879.e.89")>` to card
+2024-10-15 21:48:33,820:TEST : INFO : SharedLogger : [PAGE] Proceed to Card popup
+2024-10-15 21:48:33,909:TEST : INFO : SharedLogger : [PAGE] Initializing CartPopupPage page.
+2024-10-15 21:48:33,909:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_4.png
+2024-10-15 21:48:34,311:TEST : INFO : SharedLogger : [PAGE] Proceed to checkout
+2024-10-15 21:48:34,369:TEST : INFO : SharedLogger : [PAGE] Initializing CartPage page.
+2024-10-15 21:48:36,370:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_5.png
+2024-10-15 21:48:36,649:TEST : INFO : SharedLogger : [PAGE] Get total amount value
+2024-10-15 21:48:36,666:TEST : INFO : SharedLogger : [PAGE] Get prices
+2024-10-15 21:48:36,695:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From table cell:`388`!----
+2024-10-15 21:48:36,696:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third From Summary cell :`388`!----
+2024-10-15 21:48:36,696:TEST : INFO : SharedLogger : [PAGE] Set promo_code `rahulshettyacademy`
+2024-10-15 21:48:36,751:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_7.png
+2024-10-15 21:48:37,074:TEST : INFO : SharedLogger : [PAGE] Apply promo_code
+2024-10-15 21:48:37,114:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_8.png
+2024-10-15 21:48:42,439:TEST : INFO : SharedLogger : [PAGE] shot will be saved to ../shots/e2e_po_3_9.png
+2024-10-15 21:48:42,698:TEST : INFO : SharedLogger : [PAGE] Get discount_percents
+2024-10-15 21:48:42,713:TEST : INFO : SharedLogger : [PAGE] Get discount_percents sum
+2024-10-15 21:48:42,728:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third float price with/without discount `349.2`/`388`!----
+2024-10-15 21:48:42,728:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third Total amount with/without discount:`349.2`/`10`!----
+2024-10-15 21:48:42,728:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third process summary:`349.2`!----
+2024-10-15 21:48:42,728:TEST : INFO : SharedLogger : [TEST] --- test_e2e_third end!----
+2024-10-15 21:48:42,742:TEST : INFO : SharedLogger : ---finished logging!---
