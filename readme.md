@@ -6,7 +6,7 @@
 
 ## TABLE OF CONTENT
 * [Technology stack](#technology-stack)
-* [Allure report](#ide-report)
+* [IDE report](#ide-report)
 * [Allure report pages](#allure-report-pages)
 * [Test run in IDEA](#test-run-in-idea)
 
