@@ -23,7 +23,7 @@
 ![image](https://github.com/user-attachments/assets/adff60ed-6d7c-4137-9a05-23faf3fdc9da)
 
 ## Test run in IDEA
-![image](https://github.com/user-attachments/assets/e02da632-fe0b-4128-a92f-efdc543dc567)
+![image](https://github.com/user-attachments/assets/e53f04c2-ac9c-41cb-9957-7d25e883c539)
 
 
 
