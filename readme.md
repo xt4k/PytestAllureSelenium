@@ -13,7 +13,7 @@
 ## Technology stack
 | Python | pytest | Selenium | allure | Pycharm | 
 |:------:|:-----:|:--------:|:--------:|:------:|
-|<img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="60" height="60">|<img src=https://github.com/user-attachments/assets/59998826-e8d4-435e-979d-3a6324f14ce6 width="100" height="60">|<img src=https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525 width="60" height="60">|<img src=https://github.com/user-attachments/assets/de35d05c-661b-41c2-af48-fc40f4129669 width="60" height="60">|
+|<img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="60" height="60">| <img src=https://github.com/user-attachments/assets/e3aeef95-7746-4518-b5b9-5ba0941de6a6 width="120" height="120">|<img src=https://github.com/user-attachments/assets/59998826-e8d4-435e-979d-3a6324f14ce6 width="100" height="60">|<img src=https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525 width="60" height="60">|<img src=https://github.com/user-attachments/assets/de35d05c-661b-41c2-af48-fc40f4129669 width="60" height="60">|
 
 ## Allure report
 ![image](https://github.com/user-attachments/assets/c08ee9d0-2254-4e24-8582-6b8b35c80a48)
