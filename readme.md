@@ -1,7 +1,5 @@
 
-
-
-# Python test automation framework demo-project (as completion task for training https://www.udemy.com/course/automated-software-testing-with-python/)
+# Python test automation framework demo-project (as example of python-pytest-selenium-allure proect)
 <img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="120" height="120"> 
  <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/0143778f-137a-4311-8d9c-65786b030507" width="60" height="80">
  <img src=https://github.com/user-attachments/assets/6f3633b3-33e2-4df7-bb80-408700c14ff3 width="120" height="120"> 
